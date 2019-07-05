@@ -1,0 +1,27 @@
+ hbs{
+  "name": "service-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toyaw/service-app.git"
+  },
+  "author": "Toya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toyaw/service-app/issues"
+  },
+  "homepage": "https://github.com/toyaw/service-app#readme"
+}
